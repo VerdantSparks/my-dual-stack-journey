@@ -1,0 +1,109 @@
+<mxfile host="65bd71144e">
+    <diagram id="e413_ANuOCbrLBkMy7g4" name="Page-1">
+        <mxGraphModel dx="821" dy="1002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="1">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="40" value="&lt;span style=&quot;&quot;&gt;My Dual-Stack Portfolio&lt;/span&gt;" style="swimlane;sketch=0;labelBorderColor=none;html=1;swimlaneFillColor=#F5F5F5;fillColor=#FFFFFF;fontColor=#121212;strokeColor=#141414;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="40" width="680" height="680" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="JavaScript" style="swimlane;sketch=0;labelBorderColor=none;html=1;swimlaneFillColor=#F2F2F2;fontColor=#030303;fillColor=#FFFFFF;strokeColor=#1F1F1F;" parent="40" vertex="1">
+                    <mxGeometry x="40" y="40" width="200" height="610" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="Vue" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;labelBorderColor=none;fontColor=#1C1C1C;strokeColor=#303030;fillColor=#EDEDED;" parent="4" vertex="1">
+                    <mxGeometry x="40" y="45" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="Node + Express" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;labelBorderColor=none;fontColor=#1C1C1C;strokeColor=#303030;fillColor=#EDEDED;" parent="4" vertex="1">
+                    <mxGeometry x="40" y="130" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="Ionic-Vue / NativeScript-Vue" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;labelBorderColor=none;fontColor=#1C1C1C;strokeColor=#303030;fillColor=#EDEDED;" parent="4" vertex="1">
+                    <mxGeometry x="40" y="220" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="Electron" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;labelBorderColor=none;fontColor=#1C1C1C;strokeColor=#303030;fillColor=#EDEDED;" parent="4" vertex="1">
+                    <mxGeometry x="40" y="310" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="strapi.io" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;labelBorderColor=none;fontColor=#1C1C1C;strokeColor=#303030;fillColor=#EDEDED;" parent="4" vertex="1">
+                    <mxGeometry x="40" y="400" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="Firebase" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;labelBorderColor=none;fontColor=#1C1C1C;strokeColor=#303030;fillColor=#EDEDED;" parent="4" vertex="1">
+                    <mxGeometry x="40" y="494" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="C#" style="swimlane;sketch=0;labelBorderColor=none;html=1;fontColor=#030303;fillColor=#FFFFFF;strokeColor=#1F1F1F;" parent="40" vertex="1">
+                    <mxGeometry x="440" y="40" width="200" height="610" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Blazor + MudComponent" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;labelBorderColor=none;fontColor=#1C1C1C;strokeColor=#303030;fillColor=#EDEDED;" parent="5" vertex="1">
+                    <mxGeometry x="40" y="45" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="ASP.NET Core" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;labelBorderColor=none;fontColor=#1C1C1C;strokeColor=#303030;fillColor=#EDEDED;" parent="5" vertex="1">
+                    <mxGeometry x="40" y="130" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Xamarin/MAUI" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;labelBorderColor=none;fontColor=#1C1C1C;strokeColor=#303030;fillColor=#EDEDED;" parent="5" vertex="1">
+                    <mxGeometry x="40" y="220" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="MAUI/WPF" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;labelBorderColor=none;fontColor=#1C1C1C;strokeColor=#303030;fillColor=#EDEDED;" parent="5" vertex="1">
+                    <mxGeometry x="40" y="310" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="Umbraco / Orchard" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;labelBorderColor=none;fontColor=#1C1C1C;strokeColor=#303030;fillColor=#EDEDED;" parent="5" vertex="1">
+                    <mxGeometry x="40" y="400" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="Azure Functions" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;labelBorderColor=none;fontColor=#1C1C1C;strokeColor=#303030;fillColor=#EDEDED;" parent="5" vertex="1">
+                    <mxGeometry x="40" y="494" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" style="edgeStyle=none;html=1;sketch=0;labelBorderColor=none;fontColor=#030303;strokeColor=#0D0D0D;" parent="40" source="11" target="8" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" style="edgeStyle=none;html=1;sketch=0;labelBorderColor=none;fontColor=#030303;strokeColor=#0D0D0D;" parent="40" source="13" target="9" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" style="edgeStyle=none;html=1;sketch=0;labelBorderColor=none;fontColor=#030303;strokeColor=#0D0D0D;" parent="40" source="15" target="10" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" style="edgeStyle=none;html=1;sketch=0;labelBorderColor=none;fontColor=#030303;strokeColor=#0D0D0D;" parent="40" source="19" target="18" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" style="edgeStyle=none;html=1;sketch=0;labelBorderColor=none;fontColor=#030303;strokeColor=#0D0D0D;" parent="40" source="22" target="8" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" style="edgeStyle=none;html=1;sketch=0;labelBorderColor=none;fontColor=#030303;strokeColor=#0D0D0D;" parent="40" source="24" target="10" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" style="edgeStyle=none;html=1;sketch=0;labelBorderColor=none;fontColor=#030303;strokeColor=#0D0D0D;" parent="40" source="25" target="18" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" style="edgeStyle=none;html=1;sketch=0;labelBorderColor=none;fontColor=#030303;strokeColor=#0D0D0D;" parent="40" source="30" target="26" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" style="edgeStyle=none;html=1;sketch=0;labelBorderColor=none;fontColor=#030303;strokeColor=#0D0D0D;" parent="40" source="31" target="26" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" style="edgeStyle=none;html=1;sketch=0;labelBorderColor=none;fontColor=#030303;strokeColor=#0D0D0D;" parent="40" source="36" target="34" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" style="edgeStyle=none;html=1;sketch=0;labelBorderColor=none;fontColor=#030303;strokeColor=#0D0D0D;" parent="40" source="35" target="34" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" style="edgeStyle=none;html=1;sketch=0;labelBorderColor=none;fontColor=#030303;strokeColor=#0D0D0D;" parent="40" source="23" target="9" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Web App" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Browser.svg;sketch=0;labelBorderColor=none;fontColor=#030303;labelBackgroundColor=none;" parent="40" vertex="1">
+                    <mxGeometry x="307.5" y="89" width="65" height="52" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Server App" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;sketch=0;labelBorderColor=none;fontColor=#030303;labelBackgroundColor=none;" parent="40" vertex="1">
+                    <mxGeometry x="318.7" y="173" width="42.599999999999994" height="54" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Mobile App" style="outlineConnect=0;gradientColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.mobile_client;sketch=0;labelBorderColor=none;fontColor=#030303;" parent="40" vertex="1">
+                    <mxGeometry x="310" y="260" width="60" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Desktop App" style="shape=mxgraph.cisco.computers_and_peripherals.pc;html=1;pointerEvents=1;dashed=0;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;sketch=0;labelBorderColor=none;fontColor=#0D0D0D;" parent="40" vertex="1">
+                    <mxGeometry x="309.355" y="352.5" width="61.29" height="55" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="CMS" style="aspect=fixed;perimeter=ellipsePerimeter;align=center;shadow=0;dashed=0;fontSize=12;spacingTop=3;image;image=img/lib/ibm/management/content_management.svg;labelBorderColor=none;html=1;sketch=0;fontColor=#030303;labelBackgroundColor=none;" parent="40" vertex="1">
+                    <mxGeometry x="310" y="440" width="60" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="Serverless" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.serverless;sketch=0;labelBorderColor=none;fontColor=#080808;" parent="40" vertex="1">
+                    <mxGeometry x="306" y="531.5" width="68" height="68" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

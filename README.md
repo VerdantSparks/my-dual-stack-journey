@@ -1,3 +1,12 @@
+# My Dual-Stack Journey
+
+This repository shows how I struggle between 2 technical stacks (Vue/JS & C#).
+
+Try to implement the same identical and minimal full-stack product that could launch to production for each stack.
+
+The stacks used in this repo are shown in the diagram below:
+![Dual-Stack](doc/dual-stack.png)
+
 # Default .gitignore repository template
 Using this repo to save time from editing .gitignore to ignore MacOS and JetBrains file on top of Visual Studio setting. Please remove the `LICENSE` file when creating private repositories or change to other [LICENSE](https://choosealicense.com/) file to suit your needs.
 
@@ -10,7 +19,7 @@ Using this repo to save time from editing .gitignore to ignore MacOS and JetBrai
 
 | `fix` | `feature` | `enhancement` | `code-quality` |
 | :- | :- | :- | :- |
-| Things not working as expected / not working. | New functional requirement to add to project. | Modify current code for non-functional requirement. / Enhance exisiting feature. | Code quality problem discovered manually or by CI/CD tools or by static code analysis tools. |   
+| Things not working as expected / not working. | New functional requirement to add to project. | Modify current code for non-functional requirement. / Enhance exisiting feature. | Code quality problem discovered manually or by CI/CD tools or by static code analysis tools. |
 
 4. Create **one** branch for **one** issue to do **one** thing at a time. Then create pull-request to merge back to `dev` branch. **(1-1-1 SRP Rule)**
 

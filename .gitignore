@@ -509,6 +509,7 @@ fabric.properties
 
 # Portable Network Graphics
 *.png
+!/doc/*.png
 
 # Animated Portable Network Graphics
 *.apng
